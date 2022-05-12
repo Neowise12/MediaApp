@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaApp</string>
+    <string name="welcome_to_kimusic">Welcome To KiMusic</string>
+    <string name="button">Button</string>
+    <string name="play">Play</string>
+    <string name="todo">TODO</string>
+    <string name="pause">Pause</string>
+</resources>
